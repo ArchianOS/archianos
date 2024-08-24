@@ -17,5 +17,6 @@ Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
 After connecting to the internet, you can perform the installation using our wiki,
 or you can run the automatic Arch Linux script - using the [38;2;23;147;209marchinstall[0m command.
 
-After installing the system itself, we highly recommend that you use our post-install script: [36mhttps://github.com/ArchianOS/archianos-postinstall[0m
+After installing the system itself, we highly recommend that you use our
+post-install script: [36mhttps://github.com/ArchianOS/archianos-postinstall[0m
 
