@@ -1,0 +1,21 @@
+
+[36m          %*          [0m
+[36m         %##*          $$$$$$\                      $$\       $$\                      $$$$$$\   $$$$$$\  [0m
+[36m        %####*        $$  __$$\                     $$ |      \__|                    $$  __$$\ $$  __$$\ [0m
+[36m       %#####         $$ /  $$ | $$$$$$\   $$$$$$$\ $$$$$$$\  $$\  $$$$$$\  $$$$$$$\  $$ /  $$ |$$ /  \__|[0m
+[36m      %###*           $$$$$$$$ |$$  __$$\ $$  _____|$$  __$$\ $$ | \____$$\ $$  __$$\ $$ |  $$ |\$$$$$$\  [0m
+[36m     %##*    %##*     $$  __$$ |$$ |  \__|$$ /      $$ |  $$ |$$ | $$$$$$$ |$$ |  $$ |$$ |  $$ | \____$$\ [0m
+[36m    %#*        %#*    $$ |  $$ |$$ |      $$ |      $$ |  $$ |$$ |$$  __$$ |$$ |  $$ |$$ |  $$ |$$\   $$ |[0m
+[36m   %*            %*   $$ |  $$ |$$ |      \$$$$$$$\ $$ |  $$ |$$ |\$$$$$$$ |$$ |  $$ | $$$$$$  |\$$$$$$  |[0m
+[36m  %                *  \__|  \__|\__|       \_______|\__|  \__|\__| \_______|\__|  \__| \______/  \______/ [0m
+[36m *                  % [0m
+
+For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
+For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
+Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
+
+After connecting to the internet, you can perform the installation using our wiki,
+or you can run the automatic [38;2;23;147;209mArch Linux[0m script - using the [38;2;23;147;209marchinstall[0m command.
+
+Our wiki: [36mhttps://wiki.archianos.org/[0m
+
