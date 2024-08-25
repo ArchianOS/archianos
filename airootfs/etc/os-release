@@ -1,8 +1,7 @@
 NAME="ArchianOS"
-VERSION="1.0"
-ID=customos
-VERSION_ID="1.0"
 PRETTY_NAME="ArchianOS"
-HOME_URL="https://archianos.org"
-SUPPORT_URL="https://archianos.org"
-BUG_REPORT_URL="https://archianos.org"
+ID=arch
+VERSION_ID="2024.08.01"
+HOME_URL="https://www.archianos.org/"
+SUPPORT_URL="https://archianos.org/"
+BUG_REPORT_URL="https://archianos.org/"
