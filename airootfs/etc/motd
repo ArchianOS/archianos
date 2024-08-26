@@ -15,9 +15,10 @@ For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility
 For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
 Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
 
-After connecting to the internet, you can perform the installation using our
-archinstall-based install script - using the [38;2;23;147;209marchianinstall[0m command.
+After connecting to the internet, run the [38;2;23;147;209marchianinstall[0m command to begin installation.
 
-[31mWE STRONGLY ADVISE AGAINST RUNNING THE ARCHINSTALL SCRIPT ITSELF. USE ARCHIANINSTALL INSTEAD!!![0m
-[31mTHE ARCHINSTALL SCRIPT DOES NOT CONFIGURE THE SYSTEM, SO YOU WILL ONLY INSTALL A CLEAN ARCH LINUX.[0m
+For more info, visit our wiki: [38;2;23;147;209mhttps://archianos.org/wiki/1/[0m
+
+[31mImportant[0m: Use archianinstall instead of archinstall to properly configure your system.
+Running archinstall will only install a basic Arch Linux.
 
