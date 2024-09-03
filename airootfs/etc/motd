@@ -19,6 +19,6 @@ After connecting to the internet, run the [38;2;23;147;209marchianinstall[0m c
 
 For more info, visit our wiki: [38;2;23;147;209mhttps://archianos.org/wiki/1/[0m
 
-[31mImportant[0m: Use archianinstall instead of archinstall to properly configure your system.
+[31mImportant![0m Use archianinstall instead of archinstall to properly configure your system.
 Running archinstall will only install a basic Arch Linux.
 
